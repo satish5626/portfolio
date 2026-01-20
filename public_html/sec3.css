@@ -21,18 +21,18 @@
     gap:50px;
 }
 .box2{
-    width:300px;
+    width:370px;
     border:2px solid black;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 20px;
     border-radius: 15px;
-    gap: 15px;
+    gap: 1px;
     
 }
 .box2 >:nth-child(1){
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 600;
     
 }
@@ -71,7 +71,7 @@
 }
 .box2{
     width:500px;
-    gap: 15px;
+    gap: 10px;
     
 }
 .box2 >:nth-child(1){
